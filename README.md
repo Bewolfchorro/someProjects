@@ -2,5 +2,5 @@
 Random Projects depo
 
 Every project have the prefix that indicate the language.
-Feel free to use what you need.
+Feel free to use what you need
 :)
